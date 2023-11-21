@@ -15,9 +15,10 @@ ini bukan full aplikasi hanya core / inti dari sebuah web tiket online anda bisa
 
 # Scan barcode
 
-<img src="https://i.ibb.co/KX6SsH2/Scan-Barcode.gif">
+<img src="https://i.ibb.co/pwyymC3/Scan-Barcode-1.gif">
 
 
 # konfigurasi
 pada script/aplikasi ini hanya ada 1 konfigurasi yaitu konfigurasi email untuk mengirim barcode,
+<img src="https://i.ibb.co/jkXX7F9/set.png">
 
