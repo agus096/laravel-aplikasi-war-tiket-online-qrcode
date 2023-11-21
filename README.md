@@ -1,6 +1,6 @@
 # Flow aplikasi
 1. user membeli tiket di website (untuk bagian payment di script ini tidak ada dianggap sudah bayar silahkan sesuaikan dengan payment gateway pilihan anda)
-2. setelah checkout selesai system akan mengirim data via email dengan cronjob & ubah dengan konsep looping
+2. setelah checkout selesai system akan mengirim data via email dengan cronjob & silhakan ubah code dengan konsep looping
    <code>(url cronjob: website.com/sendemail)</code>
 3. didalam email user menerima link untuk melihat barcode
 4. scan barcode tersebut ketika akan masuk ke acara event
