@@ -1,6 +1,7 @@
 # Flow aplikasi
 1. user membeli tiket di website (untuk bagian payment di script ini tidak ada dianggap sudah bayar silahkan sesuaikan dengan payment gateway pilihan anda)
-2. setelah checkout selesai system akan mengirim data via email dengan cronjob <code>(url cronjob: website.com/sendemail)</code>
+2. setelah checkout selesai system akan mengirim data via email dengan cronjob & ubah dengan konsep looping
+   <code>(url cronjob: website.com/sendemail)</code>
 3. didalam email user menerima link untuk melihat barcode
 4. scan barcode tersebut ketika akan masuk ke acara event
 5. sesudah di scan status barcode akan menjadi "terpakai" barcode tidak bisa lagi digunakan. pada bagian cek barcode juga tersedia logika ketika barcode tidak ada alias barcode palsu sistem akan menampikan respon bahwa tiket dengan data tersebut tidak ada.
