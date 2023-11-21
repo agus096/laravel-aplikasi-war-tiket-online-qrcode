@@ -11,7 +11,7 @@
 ini bukan full aplikasi hanya core / inti dari sebuah web tiket online anda bisa kembangkan lagi seAdvance mungkin.
 
 # Menerima email & melihat QRcode
-<img src="https://i.ibb.co/Tcm2HRV/email-cek-QR.gif">
+<img src="https://i.postimg.cc/vTtFkCnw/email-cek-QR.gif">
 
 # Scan barcode
 
